@@ -6,3 +6,20 @@
   /* background: url("https://d.neoldu.com/news/12527.jpg");
   background-size: auto; */
 }
+
+@media screen and (max-width: 2167px) and (min-width: 1629px) {
+  .App {
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  }
+}
+
+@media screen and (max-width: 1629px) and (min-width: 1091px) {
+  .App {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  }
+}
+@media screen and (max-width: 1090px) {
+  .App {
+    background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  }
+}

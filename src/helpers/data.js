@@ -2,9 +2,9 @@ export const data = [
   {
     id: 1,
     title: "Pergamon Krallığı",
-    desc: "Pergamon, günümüzde İzmir iline bağlı Bergama ilçesinin merkezinin yerinde kurulu antik kentin adıdır. Pergamon, eski çağlarda Misya bölgesinin önemli merkezlerinden biriydi. Pergamon adı, bir söylence kahramanı olan Pergamos'tan gelir. Pergamos'un, Teuthrania kralını öldürdükten sonra kenti ele geçirdiği ve kendi adını verdiği sanılır. Başka bir söylenceye göre de Teuthrania Kralı Grynos savaşta Pergamos'tan yardım istemiş, zaferden sonra iki kent kurdurarak birine onun onuruna Pergamon, ötekine de Gryneion adını vermiştir.",
+    desc: "Helenistik Dönemin en görkemli yerleşim merkezlerinden biri olan Bergama’nın tarihi, MÖ yedinci yüzyıla kadar gitmektedir. Kent MÖ 281-133 tarihleri arasında yaklaşık 150 yıl süren Pergamon Krallığı'nın başkenti olmuştur. Antik Pergamon kenti, Kale Tepesi'nde yapılan teraslamalar üzerine kurulmuş; tapınakları, sokakları, sosyal ve ticari meydanları ile Helenistik Dönemin en muhteşem şehir merkezlerinden olmuştur. Zeus Sunağı, Dionysos Tapınağı, Athena Tapınağı, Demeter Tapınağı, 200.000 rulo kitaptan oluşan ünlü Pergamon Kütüphanesi, tiyatro, gymnasion, kral sarayları, Traian Tapınağı, su yolları, çeşmeler, sarnıçlar ve arsenaller Kale Tepesi’nde inşa edilmiş dünyaca ünlü anıtlardır.",
     image:
-      "https://1.bp.blogspot.com/-RZimSEwf1aI/VsPNijkmp-I/AAAAAAAABGA/wPwJedSLnHI/s1600/Pergm.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a1/Modell_Pergamonmuseum.jpg",
   },
   {
     id: 2,
@@ -85,7 +85,7 @@ export const data = [
   },
   {
     id: 13,
-    title: "BERGAMA ULU (YILDIRIM) CAMİ",
+    title: "BERGAMA ULU CAMİ",
     desc: "Günümüze kadar gelebilmiş Bergama’daki Türk dönemi yapıları içerisinde en büyük ve en eski tarihli camidir. Selçuklu sanatının etkisini taşıyan mihrap zengin mermer bezemeye sahiptir. Portal kapısı üzerindeki inşa kitabesinde caminin Sultan Beyazid tarafından 1398-1399 yılında inşa ettirildiği yazılıdır. Cami avlusunu süsleyen taş şadırvanın üzerindeki hat yazısı Bergamalı Şair Aşki Efendi’ye aittir.",
     image:
       "http://bergama.bel.tr/wp-content/uploads/gidilecek-yerler-bergama-ulu-cami.jpg",
@@ -119,9 +119,23 @@ export const data = [
   },
   {
     id: 18,
-    title: "ULUSLARARASI BERGAMA KERMESİ",
+    title: "BERGAMA KERMESİ",
     desc: "Bergama, tarih boyunca Hitit, Yunan, Roma, Bizans, Selçuklu, Anadolu Selçuklu ve Osmanlı gibi birçok uygarlığa ev sahipliği yapmış bir dünya kentidir.1934 yılında Batı Anadolu’da bir yurt gezisine çıkan Mustafa Kemal Atatürk, 13 Nisan’da Bergama’ya gelir. Kendisini merakla ve coşkuyla bekleyen Bergamalılar’a seslenir, şehri gezer ve ardından Halkevinde Bergama’nın ve İzmir’in ileri gelenleriyle bir toplantı yapar. İşte bu toplantıda, Bergama’nın geleceği ile ilgili çok önemli kararlar verilir. Bu kararlardan en önemlisi, binlerce yıl öncesinden itibaren çok değerli eserlere ev sahipliği yapan Bergama’nın tanıtılması için dünya çapında bir şenlik düzenlenmesi gerektiğidir.",
     image:
       "https://www.izgazete.net/images/upload/bergama-kurtulusunda-zeybek-soleni-izgazete-00.jpg",
+  },
+  {
+    id: 19,
+    title: "YÖRESEL ZEYBEK GİYSİSİ",
+    desc: "Ayağında balık ağzı kalçın (yemeni-burnu sivri yada kesik ve topuksuz), kalçının bağcık uçları telli, püsküllüdür. Kısa dizlik, poturun ağı uzun olup ökçeleri döğer.Üzerine işlemeli çuhadan mintan, başta keçe külah ya da kırmızı fes; üzerinde ağbani sarık ya da ucu kenara sarkıtılmış poşu (renkli, dört köşeli bir örtü), belde trablus şal kuşak deri kayışla sarılmış, önü torbacık halinde kat sarılmış (Bu silahta : kulaklı uzun kama silah, çakmak, tütün kesesi, sigara ağızlığı, enfiye kutusu), silahlık üstünde süslü, tel işlemeli çevre, mendil, gümüşlü tesbih, yenleri geniş gömlek, işlemeli çuha camadan, yelek kolları sallamalı.",
+    image:
+      "http://zeybekler.synthasite.com/resources/1186259_10151715349591647_909025820_n.jpg",
+  },
+  {
+    id: 20,
+    title: "PERGAMON ANTİK KENTİ",
+    desc: "​Birleşmiş Milletler Örgütü tarafından seçilmiş “Akdeniz’de ortak öneme sahip 100 tarihi sit” içinde bulunuyor.Bergama birçok açıdan ilklerin yeri olarak tarihe geçmiştir. İlk parşömen (deriden kağıt yapılması), İlk Asya kütüphanesi (200,000 ciltlik), İlk büyük hastane (Asklepion), İlk telkinle tedavi (Psikoterapi), İlk doğal tedavi (Müzik,tiyatro, spor, güneş ve çamur ile), İlk farmakoloji (doğal ilaçlar), İlk afyon modeli ilaç, İlk kent hijyeni (sağlık alt yapısı ), İlk tıp ve eczacılık simgesi olan yılan",
+    image:
+      "http://mustafataskin.weebly.com/uploads/1/6/1/0/16108940/dsc-1182-pergamon_orig.jpg",
   },
 ];

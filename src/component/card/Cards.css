@@ -8,11 +8,13 @@
 .cards {
   background-color: black;
   padding: 28px;
-  border-radius: 10px;
-  box-shadow: 10px 15px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 0x;
+  box-shadow: 10px 15px 10px rgba(0, 0, 0, 0.7);
   margin: 1rem;
   position: relative;
   overflow: hidden;
+  border-top-left-radius: 15%;
+  border-bottom-right-radius: 15%;
 }
 .title {
   font-size: 36px;
@@ -24,23 +26,25 @@
 .title h2 {
   margin: 0;
   color: #fff;
+  text-align: center;
 }
 
 .cards img {
   object-fit: cover;
   height: 350px;
   width: 450px;
-  border-radius: 7px;
+  border-top-left-radius: 10%;
+  border-bottom-right-radius: 10%;
   filter: grayscale(0%);
 }
 
 .cards img:hover {
-  filter: grayscale(100%);
+  filter: grayscale(90%);
 }
 
 .card-over {
   position: absolute;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.6);
   text-align: justify;
   color: #fff;
   bottom: 0;

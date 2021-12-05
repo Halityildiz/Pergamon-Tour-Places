@@ -19,3 +19,33 @@
   background-color: #f5f7fa;
   color: black;
 }
+
+@media screen and (max-width: 720px) {
+  .navbar a {
+    color: #fff;
+    padding: 24px 16px;
+    font-family: "Amatic SC", cursive;
+    font-size: 24px;
+    text-decoration: none;
+    /* letter-spacing: 2px; */
+  }
+}
+@media screen and (max-width: 2167px) and (min-width: 1629px) {
+  .navbar a:hover {
+    background-color: #a1c4fd;
+    color: black;
+  }
+}
+
+@media screen and (max-width: 1629px) and (min-width: 1091px) {
+  .navbar a:hover {
+    background-color: #f6d365;
+    color: black;
+  }
+}
+@media screen and (max-width: 1090px) {
+  .navbar a:hover {
+    background-color: #fdfcfb;
+    color: black;
+  }
+}

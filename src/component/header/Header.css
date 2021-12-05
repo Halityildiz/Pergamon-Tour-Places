@@ -6,3 +6,12 @@
   font-size: 40px;
   letter-spacing: 3px;
 }
+
+@media screen and (max-width: 360px) {
+  .big-title {
+    text-align: center;
+    font-family: "Amatic SC", cursive;
+    font-size: 23px;
+    letter-spacing: 3px;
+  }
+}

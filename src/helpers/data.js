@@ -107,8 +107,9 @@ export const data = [
   {
     id: 16,
     title: "Elaia Antik Kenti",
-    desc: "Kentin deniz kenarında olduğunu Strabonun şu satırlarından da anlıyoruz:'Pitaneden (Çandarlı) sonra Kaikos (Bakırçay) nehrine gelinir. Bu nehir otuz stadia ötede Elaitikos körfezine (Çandarlı Körfezi) dökülür. Kaikosun karşı kıyısında,nehirden oniki stadia ötede bir Aiol kenti olan Elaia bulunur. Pergamondan yüzyirmi stadia uzaklıkta bulunmasından ötürü burası Pergamonluların limanıdır. '",
-    image: "http://anadoluatlasi.com/images/2017/antik_kentler/elaia.jpg",
+    desc: "Bugün Bergama sınırları içinde yer alan sahilin olduğu yer, Kazıkbağları adıyla biliniyor. Vaktiyle Elaia bölgesi, Pergamonluların askeri merkeziydi. Elaia adı ise zeytinlik anlamına geliyordu. Buradaki Mendirek bölgesi, günümüze ulaşan en önemli kalıntılar arasında. Güneydeki kent sularıysa sadece genişletilmiş bir limanı koruyormuş. “Taş Liman” diye adlandırılan mendirek kalıntısı Elaia Antik Kenti’nden günümüze ulaşan en önemli yapılardan biri. İri taş blokların yatay bir sırada dizilmesiyle inşa edilmiş, blokları birbirine bağlayan kenetlerin izleri halen görülebilir.",
+    image:
+      "https://staticb.yolcu360.com/blog/wp-content/uploads/2019/06/30113745/el%C3%BC-500x333.jpg",
   },
   {
     id: 17,

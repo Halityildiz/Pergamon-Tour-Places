@@ -122,8 +122,7 @@ export const data = [
     id: 18,
     title: "BERGAMA KERMESİ",
     desc: "Bergama, tarih boyunca Hitit, Yunan, Roma, Bizans, Selçuklu, Anadolu Selçuklu ve Osmanlı gibi birçok uygarlığa ev sahipliği yapmış bir dünya kentidir.1934 yılında Batı Anadolu’da bir yurt gezisine çıkan Mustafa Kemal Atatürk, 13 Nisan’da Bergama’ya gelir. Kendisini merakla ve coşkuyla bekleyen Bergamalılar’a seslenir, şehri gezer ve ardından Halkevinde Bergama’nın ve İzmir’in ileri gelenleriyle bir toplantı yapar. İşte bu toplantıda, Bergama’nın geleceği ile ilgili çok önemli kararlar verilir. Bu kararlardan en önemlisi, binlerce yıl öncesinden itibaren çok değerli eserlere ev sahipliği yapan Bergama’nın tanıtılması için dünya çapında bir şenlik düzenlenmesi gerektiğidir.",
-    image:
-      "https://www.izgazete.net/images/upload/bergama-kurtulusunda-zeybek-soleni-izgazete-00.jpg",
+    image: "erhanefe.jpg",
   },
   {
     id: 19,
